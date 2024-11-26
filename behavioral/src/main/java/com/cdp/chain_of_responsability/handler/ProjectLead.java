@@ -1,6 +1,7 @@
-package com.cdp.chain_of_responsability.model;
+package com.cdp.chain_of_responsability.handler;
 
 import com.cdp.chain_of_responsability.Employee;
+import com.cdp.chain_of_responsability.LeaveApplication;
 import com.cdp.chain_of_responsability.LeaveApprover;
 
 public class ProjectLead extends Employee {

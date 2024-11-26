@@ -1,4 +1,4 @@
-package com.cdp.chain_of_responsability.model;
+package com.cdp.chain_of_responsability;
 
 import java.time.LocalDate;
 import java.time.Period;
